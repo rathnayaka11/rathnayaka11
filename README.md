@@ -16,13 +16,25 @@
 
 ---
 
-## ⚙️ Tech Stack
+---
+
+## 🚀 Skills In Motion
 <div align="center">
-  <marquee direction="right" scrollamount="10" width="80%">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql,mongodb,git,github,vscode,spring,postman" />
-  </marquee>
+  <table border="0">
+    <tr>
+      <td bgcolor="#1a1b27" style="border-radius: 10px; padding: 10px;">
+        <p align="center">
+          <font color="#00F7FF"><b>⚡ CURRENTLY WORKING WITH ⚡</b></font>
+        </p>
+        <marquee direction="left" scrollamount="10" width="100%">
+          <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,mongodb,python,cpp,js,html,css,git,github,vscode,postman,docker,linux" height="50px" />
+        </marquee>
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
 ---
 
 ## 🚀 Coding Vibes
