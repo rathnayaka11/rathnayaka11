@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer+☕;Problem+Solver+🧠;Clean+Code+Enthusiast+✨;Always+Learning+🚀" />
+ <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer+☕;Full+Stack+Explorer+🌐;Problem+Solver+🧠;Clean+Code+Enthusiast+✨" />
 </p>
 
 ---
@@ -12,14 +12,16 @@
 - 💻 Java Programmer with strong OOP skills  
 - 🔥 Love **DSA, Collections, Lambda Expressions**
 - 🛠️ Focused on clean & efficient code
-- 🌱 Currently learning **Advanced Java & Backend**
+- 🌱 Currently learning **Advanced Java, Spring Boot & Backend**
 
 ---
 
 ## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,html,css,vscode" />
-</p>
+<div align="center">
+  <marquee direction="right" scrollamount="10" width="80%">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql,mongodb,git,github,vscode,spring,postman" />
+  </marquee>
+</div>
 
 ---
 
@@ -29,12 +31,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
 </p>
@@ -43,7 +45,7 @@
 
 ## 🏆 Quote
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+ <i>"Code is like humor. When you have to explain it, it’s bad." </i>
 </p>
 
 ---
@@ -61,4 +63,3 @@
 ---
 
 ⭐ **Star my repos if you like clean Java code!**
-
