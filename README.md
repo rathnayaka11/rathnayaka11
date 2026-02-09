@@ -16,12 +16,14 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Tools
 <div align="center">
-  <marquee direction="right" scrollamount="10" width="80%">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql,mongodb,git,github,vscode,spring,postman" />
+  <marquee behavior="scroll" direction="left" scrollamount="8">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,mongodb,python,cpp,js,html,css,git,github,vscode,postman,docker,linux" />
   </marquee>
 </div>
+
+---
 
 ---
 
