@@ -20,7 +20,7 @@
       <p>Hello! I'm <b>Semitha</b>. I specialize in building high-performance web applications and sleek user interfaces.</p>
       <p>🚀 <b>Current Focus:</b> Mastering Advanced Backend Architectures</p>
       <p>🌱 <b>Learning:</b> Cloud Computing and AI Integration</p>
-      <p>📫 <b>Get in touch:</b> <a href="mailto:semithabinuk452@gmail.com">Contact Semitha</a></p>
+      <p>📫 <b>Get in touch:</b> <a href="mailto:semitha@example.com">Contact Semitha</a></p>
     </td>
     <td width="40%" style="border: none;">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXp4bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZWdpbm5pbmcmY3Q9Zw/L1R1TVr9WvY7ULonM3/giphy.gif" width="100%" />
@@ -48,7 +48,7 @@
 
 ---
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Activity (Snake Animation)
 <div align="center">
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
